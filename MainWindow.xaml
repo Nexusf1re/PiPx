@@ -5,9 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PiPxWpf"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+                Title="PiPx" Height="200" Width="400">
     <Grid>
-        <ComboBox x:Name="WindowsListComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200"/>
-        <Button Content="Start PiP" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,50,0,0" Width="100" Click="StartPiP_Click"/>
+        <ComboBox x:Name="WindowsListComboBox"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Width="300"
+                    Height="30"
+                    Margin="50,30,50,0"/>
+        <Button Content="Start PiP"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Margin="0,50,0,0"
+                Width="100"
+                Click="StartPiP_Click"/>
     </Grid>
 </Window>
