@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PiPxWpf"
         mc:Ignorable="d"
+<<<<<<< Updated upstream
                  Title="PiPx"\
                  Height="420"
                  Width="720"
@@ -15,6 +16,18 @@
         <ComboBox x:Name="WindowsListComboBox"
                 Width="300"
                 Height="30"
+=======
+                Title="PiPx" Height="200" Width="400">
+<Grid>
+        <ComboBox x:Name="WindowsListComboBox"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Width="300"
+                Height="30"
+                Margin="50,30,50,0"/>
+        <Button Content="Start PiP"
+                HorizontalAlignment="Left"
+>>>>>>> Stashed changes
                 VerticalAlignment="Top"
                 Margin="50,30,50,0"
                 HorizontalAlignment="Center"/>
@@ -24,5 +37,5 @@
                 VerticalAlignment="Center"
                 HorizontalAlignment="Center"
                 Click="StartPiP_Click"/>
-    </Grid>
+</Grid>
 </Window>
