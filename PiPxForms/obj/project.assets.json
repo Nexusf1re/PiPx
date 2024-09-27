@@ -8,23 +8,26 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Matteus\\.nuget\\packages\\": {}
+    "C:\\Users\\gabri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\PiPx\\PiPxForms\\PiPxForms.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Downloads\\Ferramentas\\PiPx\\PiPxForms\\PiPxForms.csproj",
       "projectName": "PiPxForms",
-      "projectPath": "C:\\xampp\\htdocs\\PiPx\\PiPxForms\\PiPxForms.csproj",
-      "packagesPath": "C:\\Users\\Matteus\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\PiPx\\PiPxForms\\obj\\",
+      "projectPath": "C:\\Users\\gabri\\Downloads\\Ferramentas\\PiPx\\PiPxForms\\PiPxForms.csproj",
+      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gabri\\Downloads\\Ferramentas\\PiPx\\PiPxForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matteus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",

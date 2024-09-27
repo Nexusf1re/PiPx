@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PiPxForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a7e4cd64b0747bab2ca1b913cecc09602a6e1d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc7262740829ed5d99a01d09cf1ad80a3e3845e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PiPxForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PiPxForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
