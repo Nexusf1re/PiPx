@@ -1,4 +1,0 @@
-C:\xampp\htdocs\PiPx\obj\Debug\net8.0\PiPx.GeneratedMSBuildEditorConfig.editorconfig
-C:\xampp\htdocs\PiPx\obj\Debug\net8.0\PiPx.AssemblyInfoInputs.cache
-C:\xampp\htdocs\PiPx\obj\Debug\net8.0\PiPx.AssemblyInfo.cs
-C:\xampp\htdocs\PiPx\obj\Debug\net8.0\PiPx.csproj.CoreCompileInputs.cache

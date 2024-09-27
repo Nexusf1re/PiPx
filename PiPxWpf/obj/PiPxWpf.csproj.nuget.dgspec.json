@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Downloads\\Ferramentas\\PiPx\\PiPxWpf\\PiPxWpf.csproj": {}
+    "C:\\xampp\\htdocs\\PiPx\\PiPxWpf\\PiPxWpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Downloads\\Ferramentas\\PiPx\\PiPxWpf\\PiPxWpf.csproj": {
+    "C:\\xampp\\htdocs\\PiPx\\PiPxWpf\\PiPxWpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Downloads\\Ferramentas\\PiPx\\PiPxWpf\\PiPxWpf.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\PiPx\\PiPxWpf\\PiPxWpf.csproj",
         "projectName": "PiPxWpf",
-        "projectPath": "C:\\Users\\gabri\\Downloads\\Ferramentas\\PiPx\\PiPxWpf\\PiPxWpf.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Downloads\\Ferramentas\\PiPx\\PiPxWpf\\obj\\",
+        "projectPath": "C:\\xampp\\htdocs\\PiPx\\PiPxWpf\\PiPxWpf.csproj",
+        "packagesPath": "C:\\Users\\Matteus\\.nuget\\packages\\",
+        "outputPath": "C:\\xampp\\htdocs\\PiPx\\PiPxWpf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Matteus\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
