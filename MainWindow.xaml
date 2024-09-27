@@ -5,7 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PiPxWpf"
         mc:Ignorable="d"
-                Title="PiPx" Height="420" Width="720">
+                 Title="PiPx"\
+                 Height="420"
+                 Width="720"
+                 Icon="C:\xampp\htdocs\PiPx\resources\NEXTRIX.ico"
+                >
     <Grid>
         <!-- ComboBox para listas as janelas Ativas -->
         <ComboBox x:Name="WindowsListComboBox"
