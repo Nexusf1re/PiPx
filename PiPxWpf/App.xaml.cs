@@ -1,13 +1,15 @@
-﻿using System.Configuration;
-using System.Data;
+﻿using System;
 using System.Windows;
 
-namespace PiPxWpf;
-
-/// <summary>
-/// Interaction logic for App.xaml
-/// </summary>
-public partial class App : Application
+namespace PiPxWpf
 {
+    public partial class App : Application
+    {
+        // Método de inicialização opcional
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+            // Qualquer código de inicialização que você quiser adicionar aqui
+        }
+    }
 }
-
