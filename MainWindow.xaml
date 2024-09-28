@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PiPxWpf"
         mc:Ignorable="d"
-                Title="PiPx" Height="200" Width="400">
+                Title="PiPx" Height="400" Width="500">
 <Grid>
         <ComboBox x:Name="WindowsListComboBox"
                 HorizontalAlignment="Center"
